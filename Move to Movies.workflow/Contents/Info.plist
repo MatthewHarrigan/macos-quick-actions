@@ -5,11 +5,11 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.apple.automator.Copy to Movies</string>
+	<string>com.apple.automator.Move to Movies</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>Copy to Movies</string>
+	<string>Move to Movies</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
@@ -26,7 +26,7 @@
 			<key>NSMenuItem</key>
 			<dict>
 				<key>default</key>
-				<string>Copy to Movies</string>
+				<string>Move to Movies</string>
 			</dict>
 			<key>NSMessage</key>
 			<string>runWorkflowAsService</string>

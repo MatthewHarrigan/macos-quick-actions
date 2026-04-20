@@ -4,15 +4,15 @@ A collection of custom macOS Quick Actions (Automator workflows) that appear in 
 
 ## Quick Actions
 
-### Copy to Movies
+### Move to Movies
 
 Copies selected files or folders to `~/Movies/` in one click.
 
 **Install:**
 ```bash
-cp -R "Copy to Movies.workflow" ~/Library/Services/
+cp -R "Move to Movies.workflow" ~/Library/Services/
 ```
 
-Then right-click any file in Finder → **Quick Actions** → **Copy to Movies**.
+Then right-click any file in Finder → **Quick Actions** → **Move to Movies**.
 
 > If it doesn't appear, enable it in **System Settings → Privacy & Security → Extensions → Finder**.
